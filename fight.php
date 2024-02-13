@@ -1,10 +1,10 @@
 <?php
 
 include './config/Autoload.php';
-require("./classes/HeroesManager.php");
+// require("./classes/HeroesManager.php");
 require("./config/db.php");
-require_once './classes/FightsManager.php';
-require_once './classes/Monster.php';
+// require_once './classes/FightsManager.php';
+// require_once './classes/Monster.php';
 
 
 $fightManager = new FightsManager();
